@@ -7,3 +7,5 @@ And maybe use Node.js or Django for backend
 
 
 React Native: https://reactnative.dev/docs/getting-started
+
+Vlr.gg API: https://github.com/axsddlr/vlrggapi
