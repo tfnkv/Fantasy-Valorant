@@ -1,1 +1,8 @@
-
+Point system: 
+Kills +2 points
+Assists +1 points
+Deaths -1 points
+First bloods +1 points
+First deaths -1 points
+Round won +1 points
+Match sweep (Bo3 or above only) +5
